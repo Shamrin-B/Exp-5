@@ -7,8 +7,29 @@ To develop a project Student Registration System using Rational Rose Software an
 
 # SRS (Procedure):
 
-A Student Registration system (SRS) is a software application for educational establishments to manage student data. Student information systems provide capabilities for entering student test and other assessment scores, building student schedules, tracking student attendance, and managing many other student-related data needs in a school, college or university.
+```
+Procedure
 
+Start the system.
+
+Student logs in or creates a new account.
+
+Student fills in personal and academic details.
+
+System displays available courses.
+
+Student selects the desired courses.
+
+System saves the registration details in the database.
+
+Admin can view, update, or delete student records.
+
+Confirmation message is shown to the student.
+
+Student logs out.
+
+End.
+```
 # DIAGRAMS:
 
 USE CASE DIAGRAM:
